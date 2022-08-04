@@ -8,6 +8,9 @@ Below is the block diagram of the model used.
 
 ### Results
 
+![image](https://user-images.githubusercontent.com/103813206/182971373-10aee0e0-cd74-478d-b8fa-309ba92ce634.png)
+
+
 
 
 
