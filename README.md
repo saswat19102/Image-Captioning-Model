@@ -12,6 +12,9 @@ Below is the block diagram of the model used.
 
 ![image](https://user-images.githubusercontent.com/103813206/182971603-a4ae2095-f235-4c62-942d-29acd9a9e794.png)
 
+![image](https://user-images.githubusercontent.com/103813206/182971763-db798042-0192-4060-a972-6a13c06a335d.png)
+
+
 
 
 
