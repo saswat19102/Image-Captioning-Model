@@ -6,6 +6,9 @@ Below is the block diagram of the model used.
 
 ![image](https://user-images.githubusercontent.com/103813206/182954322-13c9a113-4cb3-4df1-86d5-2523ba956c58.png)
 
+### Link to Dataset
+https://www.kaggle.com/datasets/adityajn105/flickr8k
+
 ### Results
 
 ![image](https://user-images.githubusercontent.com/103813206/182971373-10aee0e0-cd74-478d-b8fa-309ba92ce634.png)
